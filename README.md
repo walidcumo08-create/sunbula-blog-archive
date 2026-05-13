@@ -40,8 +40,7 @@
 ---
 
 ### 🌐 الروابط الرسمية للاتصال
-* 🌐 **الموقع الرسمي:** [منصة سنبلة](https://walidcumbosonbola.com.free/)
-
+* 🌐 **الموقع الرسمي:** [منصة سنبلة](http://yourname875.wordpress.com.) 
 * 📘 **فيسبوك:** [رابط التواصل الاجتماعي](https://www.facebook.com/share/17QhVZLLDo/)
 * 🎥 **تيك توك:** [محتوى مرئي فلسفي]
 https://www.tiktok.com/@v.cmo27?_r=1&_t=ZS-96KgWDUw02S
