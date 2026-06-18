@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>walidcumo08-ahvp</ShortName>
+	<Description>Search منصة سنبلة 2026  - منصة_سنبلة _ وليد جمو - حارس الأثر</Description>
+	<Contact>help@wordpress.com</Contact>
+	<Url type="application/atom+xml" template="https://walidcumo08-ahvpy.wordpress.com/?s={searchTerms}&amp;feed=atom" />
+	<Url type="rss+xml" template="https://walidcumo08-ahvpy.wordpress.com/?s={searchTerms}&amp;feed=rss2" />
+	<Url type="text/html" template="https://walidcumo08-ahvpy.wordpress.com/?s={searchTerms}" method="GET" />
+	<Url type="application/opensearchdescription+xml" rel="self" template="https://walidcumo08-ahvpy.wordpress.com/osd.xml" />
+	<LongName>منصة سنبلة 2026 </LongName>
+	<Image height="16" width="16" type="image/vnd.microsoft.icon">https://walidcumo08-ahvpy.wordpress.com/wp-content/uploads/2026/04/file_00000000956872468ce198db364a284b6794003654614202119.png?w=16</Image>
+	<Image height="64" width="64" type="image/png">https://walidcumo08-ahvpy.wordpress.com/wp-content/uploads/2026/04/file_00000000956872468ce198db364a284b6794003654614202119.png?w=64</Image>
+	<Query role="example" searchTerms="photography" />
+	<Tags>%d9%85%d8%af%d8%b1%d8%b3%d8%a9-%d8%a7%d9%84%d8%b6%d9%85%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d8%a7%d9%82%d8%b9%d9%8a-%d8%b3%d9%86%d8%a8%d9%84%d8%a9-%f0%9f%8c%be %d9%85%d8%af%d8%b1%d8%b3%d8%a9-%d8%a7%d9%84%d8%b6%d9%85%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d8%a7%d9%82%d8%b9%d9%8a %d9%88%d9%84%d9%8a%d8%af-%d8%ac%d9%85%d9%88 %d9%85%d8%af%d9%88%d9%86%d8%a9_%d9%88%d9%84%d9%8a%d8%af_%d8%ac%d9%85%d9%88 %d8%a3%d9%86%d8%b3%d9%86%d8%a9-%d8%a7%d9%84%d8%a3%d8%b1%d9%82%d8%a7%d9%85 %d9%85%d9%86%d8%b5%d8%a9-%d8%b3%d9%86%d8%a8%d9%84%d8%a9 %d9%83%d8%a7%d8%aa%d8%a8-%d9%88%d8%a8%d8%a7%d8%ad%d8%ab-%d9%85%d8%b3%d8%aa%d9%82%d9%84-%d9%85%d8%a4%d8%b3%d8%b3-%d9%85%d8%af%d8%b1%d8%b3%d8%a9-%d8%a7%d9%84%d8%b6%d9%85%d9%8a%d8%b1-%d8%a7%d9%84 %d9%88%d9%84%d9%8a%d8%af-%d8%ac%d9%85%d9%88%d8%8c-%d9%85%d8%af%d8%b1%d8%b3%d8%a9-%d8%a7%d9%84%d8%b6%d9%85%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d8%a7%d9%82%d8%b9%d9%8a%d8%8c-%d8%a3%d9%86%d8%b3%d9%86%d8%a9 %d9%88%d9%84%d9%8a%d8%af-%d8%ac%d9%85%d9%88%d8%8c-%d9%85%d8%af%d8%b1%d8%b3%d8%a9-%d8%a7%d9%84%d8%b6%d9%85%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d8%a7%d9%82%d8%b9%d9%8a%d8%8c-%d9%85%d9%86%d8%b5%d8%a9-%d8%b3 %d9%88%d9%84%d9%8a%d8%af_%d8%ac%d9%85%d9%88-%d9%85%d8%af%d8%b1%d8%b3%d8%a9_%d8%a7%d9%84%d8%b6%d9%85%d9%8a%d8%b1_%d8%a7%d9%84%d9%88%d8%a7%d9%82%d8%b9%d9%8a-%d8%b3%d8%a7%d9%8a%d9%83%d8%b3_%d8%a8</Tags>
+	<Developer>Automattic</Developer>
+	<SyndicationRight>open</SyndicationRight>
+	<AdultContent>false</AdultContent>
+	<Language>ar</Language>
+	<OutputEncoding>UTF-8</OutputEncoding>
+	<InputEncoding>UTF-8</InputEncoding>
+	<moz:SearchForm>https://walidcumo08-ahvpy.wordpress.com</moz:SearchForm>
+</OpenSearchDescription>
