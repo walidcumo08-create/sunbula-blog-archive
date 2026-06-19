@@ -20,7 +20,7 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: List files for diagnosis
+      - name: List files for diagnosi
         run: ls -R
 
       - name: Run Archive Script
